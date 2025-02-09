@@ -22,7 +22,7 @@
    uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
    ```
 
--UIでリクエストを送るツール「Postman」等
+- UIでリクエストを送るツール「Postman」等
 
 
 ## プロジェクト構造
