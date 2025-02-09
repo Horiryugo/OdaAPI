@@ -2,11 +2,11 @@
 
 このリポジトリは織田信長風の回答を生成するAPIサーバー
 
-##技術
+## 技術
 
--FastAPI
--LangChain
--Docker
+- FastAPI
+- LangChain
+- Docker
 
 #環境セットアップ
 
