@@ -25,7 +25,7 @@
 -UIでリクエストを送るツール「Postman」等
 
 
-##プロジェクト構造
+## プロジェクト構造
 
    ```sh
    programming-camp-lp/
